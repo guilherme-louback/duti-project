@@ -49,7 +49,8 @@ fun MainScreen (navController: NavController) {
                 )
                 Image(
                     painter = painterResource(R.drawable.sino_de_notificacao),
-                    contentDescription = "Notifications Icon"
+                    contentDescription = "Notifications Icon",
+                    modifier = Modifier.clickable {  }
                 )
                 Image(
                     modifier = Modifier.clickable{(navController.navigate(route = "UserScreen"))},
