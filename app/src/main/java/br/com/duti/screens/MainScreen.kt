@@ -27,61 +27,63 @@ import br.com.duti.R
 
 @Composable
 fun MainScreen(navController: NavController) {
-    Column(
-        modifier = Modifier
-            .fillMaxSize()
-    ) {
-        Box(
+    Surface() {
+        Column(
             modifier = Modifier
-                .background(color = Color.Cyan)
-                .weight(1f),
-            contentAlignment = Alignment.TopCenter
+                .fillMaxSize()
         ) {
-            Row(
-                modifier = Modifier.background(color = Color.White)
-                    .fillMaxWidth()
-                    .padding(16.dp),
-                horizontalArrangement = Arrangement.End,
-                verticalAlignment = Alignment.CenterVertically
-            ) {
-                Image(
-                    painter = painterResource(id = R.drawable.baseline_search_24),
-                    contentDescription = "Menu Search"
-                )
-            }
-        }
-        Box(
-            modifier = Modifier
-                .background(color = Color.Cyan)
-                .weight(1f),
-            contentAlignment = Alignment.BottomEnd
-        ) {
-            Row(
-                horizontalArrangement = Arrangement.SpaceAround,
-                verticalAlignment = Alignment.CenterVertically,
+            Box(
                 modifier = Modifier
-                    .background(color = Color.White)
-                    .fillMaxWidth()
-                    .height(48.dp) // Ajustar a altura para 48dp
+                    .background(color = Color.Cyan)
+                    .weight(1f),
+                contentAlignment = Alignment.TopCenter
             ) {
-                Image(
-                    painter = painterResource(R.drawable.round_cottage_24),
-                    contentDescription = "Home Icon"
-                )
-                Image(
-                    painter = painterResource(R.drawable.baseline_add_circle_24),
-                    contentDescription = "Add Icon"
-                )
-                Image(
-                    painter = painterResource(R.drawable.sino_de_notificacao),
-                    contentDescription = "Notifications Icon",
-                    modifier = Modifier.clickable { }
-                )
-                Image(
-                    modifier = Modifier.clickable { navController.navigate(route = "UserScreen") },
-                    painter = painterResource(R.drawable.round_account_circle_24),
-                    contentDescription = "User Icon",
-                )
+                Row(
+                    modifier = Modifier.background(color = Color.White)
+                        .fillMaxWidth()
+                        .padding(16.dp),
+                    horizontalArrangement = Arrangement.End,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Image(
+                        painter = painterResource(id = R.drawable.baseline_search_24),
+                        contentDescription = "Menu Search"
+                    )
+                }
+            }
+            Box(
+                modifier = Modifier
+                    .background(color = Color.Cyan)
+                    .weight(1f),
+                contentAlignment = Alignment.BottomEnd
+            ) {
+                Row(
+                    horizontalArrangement = Arrangement.SpaceAround,
+                    verticalAlignment = Alignment.CenterVertically,
+                    modifier = Modifier
+                        .background(color = Color.White)
+                        .fillMaxWidth()
+                        .height(48.dp) // Ajustar a altura para 48dp
+                ) {
+                    Image(
+                        painter = painterResource(R.drawable.round_cottage_24),
+                        contentDescription = "Home Icon"
+                    )
+                    Image(
+                        painter = painterResource(R.drawable.baseline_add_circle_24),
+                        contentDescription = "Add Icon"
+                    )
+                    Image(
+                        painter = painterResource(R.drawable.sino_de_notificacao),
+                        contentDescription = "Notifications Icon",
+                        modifier = Modifier.clickable { }
+                    )
+                    Image(
+                        modifier = Modifier.clickable { navController.navigate(route = "UserScreen") },
+                        painter = painterResource(R.drawable.round_account_circle_24),
+                        contentDescription = "User Icon",
+                    )
+                }
             }
         }
     }
