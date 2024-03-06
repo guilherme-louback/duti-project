@@ -45,7 +45,7 @@ fun MainScreen(navController: NavController) {
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 Image(
-                    painter = painterResource(id = R.drawable.baseline_search_24),
+                    painter = painterResource(id = R.drawable.round_search_24),
                     contentDescription = "Menu Search"
                 )
             }
