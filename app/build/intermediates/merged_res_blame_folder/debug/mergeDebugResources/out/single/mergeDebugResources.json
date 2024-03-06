@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.duti.app-debug-50:/drawable_round_search_24.xml.flat",
+        "source": "br.com.duti.app-main-52:/drawable/round_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_telacinza.png.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\telacinza.png"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_round_cottage_24.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\round_cottage_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_round_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\round_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_sino_de_notificacao.png.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\sino_de_notificacao.png"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_round_account_circle_24.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\round_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_round_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\round_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\drawable_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\drawable\\baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-debug-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guilherme.souza\\.gradle\\daemon\\8.4\\br.com.duti.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

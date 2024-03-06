@@ -65,7 +65,7 @@ fun UserScreen(navController: NavController) {
             Text(
                 text = "Meu Perfil",
                 color = Color.White,
-                fontSize = 16.sp,
+                fontSize = 19.sp,
                 fontFamily = Poppins
             )
         }
