@@ -9,7 +9,9 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.VerticalDivider
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -61,8 +63,9 @@ fun MainScreen(navController: NavController) {
                 .padding(innerPadding),
             verticalArrangement = Arrangement.spacedBy(16.dp),
         ) {
+            //CONTÚDO PRINCIPAL
+            HorizontalDivider(color = Color(0xFF000854), thickness = 2.dp)
 
-            //CONTEÚDO PRINCIPAL
 
         }
     }
@@ -84,5 +87,6 @@ fun TopBar() {
             contentDescription = "Menu Search"
         )
     }
+
 }
 

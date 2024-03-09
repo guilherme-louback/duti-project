@@ -70,4 +70,7 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
     implementation("androidx.navigation:navigation-compose:2.7.7")
+
+    implementation ("com.squareup.retrofit2:retrofit:(2.9.0)")
+    implementation("com.squareup.retrofit2:converter-gson")
 }
